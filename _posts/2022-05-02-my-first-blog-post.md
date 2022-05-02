@@ -1,1 +1,4 @@
-A quick draft of the blog post
+---
+title: "a title"
+data: "2022-05-02"
+---
